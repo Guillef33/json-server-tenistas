@@ -1,5 +1,4 @@
-	[
-	{
+[{
 		"id": 1,
 		"name": "Marcelo Rios",
 		"edad": 45,
@@ -9,7 +8,7 @@
 		"ciudad": "Tigre",
 		"precio/hora": 1200,
 		"cancha": "KDT",
-		"img": 
+		"img": "imagen1"
 	},
 	{
 		"id": 2,
@@ -21,7 +20,7 @@
 		"ciudad": "Villa Urquiza",
 		"precio/hora": 1000,
 		"cancha": "Parque Sarmiento",
-		"img": 
+		"img": "imagen1"
 	},
 	{
 		"id": 3,
@@ -33,7 +32,7 @@
 		"ciudad": "Villa Crespo",
 		"precio/hora": 1000,
 		"cancha": "Bayres Tenis",
-		"img": 
+		"img": "imagen1"
 	},
 	{
 		"id": 4,
@@ -45,7 +44,7 @@
 		"ciudad": "Congreso",
 		"precio/hora": 900,
 		"cancha": "Bayres Tenis",
-		"img": 
+		"img": "imagen1"
 	},
 	{
 		"id": 5,
@@ -57,7 +56,7 @@
 		"ciudad": "Palermo",
 		"precio/hora": 800,
 		"cancha": "GEBA",
-		"img": 
+		"img": "imagen1"
 	},
 	{
 		"id": 6,
@@ -69,6 +68,6 @@
 		"ciudad": "Congreso",
 		"precio/hora": 700,
 		"cancha": "Pasco Tenis",
-		"img": 
+		"img": "imagen1"
 	}
 ]
