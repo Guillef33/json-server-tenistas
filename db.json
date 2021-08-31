@@ -10,7 +10,6 @@
 		"id": 2,
 		"name": "Alfredo Palmieri",
 		"edad": 34,
-		"brazo": "drive",
 		"ranking": 2,
 		"ciudad": "Villa Urquiza"
 	},
@@ -18,7 +17,6 @@
 		"id": 3,
 		"name": "Guillermo Flores",
 		"edad": 35,
-		"brazo": "drive",
 		"ranking": 3,
 		"ciudad": "Villa Crespo"
 	},
@@ -26,7 +24,6 @@
 		"id": 4,
 		"name": "Andres Chino",
 		"edad": 32,
-		"brazo": "drive",
 		"ranking": 4,
 		"ciudad": "Congreso"
 	}
