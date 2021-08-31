@@ -1,0 +1,74 @@
+[
+	{
+		"id": 1,
+		"name": "Marcelo Rios",
+		"edad": 45,
+		"brazo": "drive",
+		"torneos": ["Wimbledon", "Roland Garros", "Australia Open"],
+		"ranking": 1,
+		"ciudad": "Tigre",
+		"precio/hora": 1200,
+		"cancha": "KDT",
+		"img": 
+	},
+	{
+		"id": 2,
+		"name": "Alfredo Palmieri",
+		"edad": 34,
+		"brazo": "drive",
+		"torneos": ["Wimbledon", "Roland Garros"],
+		"ranking": 2,
+		"ciudad": "Villa Urquiza",
+		"precio/hora": 1000,
+		"cancha": "Parque Sarmiento",
+		"img": 
+	},
+	{
+		"id": 3,
+		"name": "Guillermo Flores",
+		"edad": 35,
+		"brazo": "drive",
+		"torneos": ["Australia Open"],
+		"ranking": 3,
+		"ciudad": "Villa Crespo",
+		"precio/hora": 1000,
+		"cancha": "Bayres Tenis",
+		"img": 
+	},
+	{
+		"id": 4,
+		"name": "Andres Chino",
+		"edad": 32,
+		"brazo": "drive",
+		"torneos": ["Rolland Garros"],
+		"ranking": 4,
+		"ciudad": "Congreso",
+		"precio/hora": 900,
+		"cancha": "Bayres Tenis",
+		"img": 
+	},
+	{
+		"id": 5,
+		"name": "Lean Alvarez",
+		"edad": 36,
+		"brazo": "drive",
+		"torneos": ["Rolland Garros"],
+		"ranking": 5,
+		"ciudad": "Palermo",
+		"precio/hora": 800,
+		"cancha": "GEBA",
+		"img": 
+	},
+	{
+		"id": 6,
+		"name": "Pablo Torres",
+		"edad": 36,
+		"brazo": "drive",
+		"torneos": ["Copa Davis"],
+		"ranking": 6,
+		"ciudad": "Congreso",
+		"precio/hora": 700,
+		"cancha": "Pasco Tenis",
+		"img": 
+	}
+]
