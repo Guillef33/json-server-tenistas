@@ -37,13 +37,5 @@
 		"brazo": "drive",
 		"ranking": 5,
 		"ciudad": "Palermo"
-	},
-	{
-		"id": 6,
-		"name": "Pablo Torres",
-		"edad": 36,
-		"brazo": "drive",
-		"ranking": 6,
-		"ciudad": "Congreso"
 	}
 ]
