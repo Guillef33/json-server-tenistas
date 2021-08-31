@@ -29,13 +29,5 @@
 		"brazo": "drive",
 		"ranking": 4,
 		"ciudad": "Congreso"
-	},
-	{
-		"id": 5,
-		"name": "Lean Alvarez",
-		"edad": 36,
-		"brazo": "drive",
-		"ranking": 5,
-		"ciudad": "Palermo"
 	}
 ]
